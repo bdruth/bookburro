@@ -1,6 +1,6 @@
 My wife still finds it useful to use BookBurro to find books and check if they're at our local library, but the relentless onslaught of new Firefox versions meant that eventually we had to get off 3.6.x, which is the last version the official release was compatible with.
 
-To install, just grab the repo and ZIP it - rename to .xpi and install it in Firefox. I'll try to post better instructions soon. At this point, the only file modified is install.rdf.
+To install the latest (updated to FF 7), click here: http://github.com/bdruth/bookburro/blob/master/bookburro-latest.xpi
 
 Cheers!
 -Brice Ruth
