@@ -1,6 +1,10 @@
 My wife still finds it useful to use BookBurro to find books and check if they're at our local library, but the relentless onslaught of new Firefox versions meant that eventually we had to get off 3.6.x, which is the last version the official release was compatible with.
 
-To install the latest (updated to FF 7), click here: https://github.com/downloads/bdruth/bookburro/bookburro-latest.xpi
+To install the latest (updated to FF 7):
+# Download https://github.com/downloads/bdruth/bookburro/bookburro-latest.xpi
+# Save the file to a location of your choosing when prompted
+# Open the file with FireFox (File -> Open... )
+# Agree to install the plugin
 
 Cheers!
 -Brice Ruth
